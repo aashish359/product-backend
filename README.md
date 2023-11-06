@@ -10,3 +10,4 @@ steps to run this app
     npm i
     npm run dev
     ```
+Note: Don't forget to add the .env
